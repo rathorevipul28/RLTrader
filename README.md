@@ -7,7 +7,7 @@ Data sets: https://www.cryptodatadownload.com/data/northamerican/
 conda create --name rltrader python=3.6.8 pip git
 conda activate rltrader
 conda install tensorflow-gpu
-git clone https://github.com/notadamking/RLTrader
+git clone https://github.com/rathorevipul28/RLTrader
 pip install -r RLTrader/requirements.txt
 
 # Training and Testing
